@@ -12,6 +12,7 @@ If you are using Office 365 or 2014 April CU for on-premises, you should not be 
 -  SharePoint 2013 on-premises
 
 
+
 ### Prerequisites ###
 None
 
